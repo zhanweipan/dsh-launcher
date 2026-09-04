@@ -1,6 +1,6 @@
 {
   "name": "dsh-launcher",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "DSH Launcher —— 一键部署与管理 DeepSeek Harness 的 Windows 桌面工具",
   "author": "zhanwei",
   "license": "MIT",
